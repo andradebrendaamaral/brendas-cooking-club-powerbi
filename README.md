@@ -19,10 +19,3 @@ Power BI · Power Query · DAX · Modelagem estrela (fatos e dimensões)
 ## Estrutura do modelo
 Dimensões: Calendario, Produtos, Ingredientes
 Fatos: Vendas, Producao, Estoque_Movimentos, Fichas_Tecnicas, Estoque_Saldo
-
-## Prints
-![Visão geral](imagens/01_visao_geral.png)
-![CMV e margem](imagens/02_cmv_margem.png)
-
-## Medidas DAX
-Veja [dax/medidas.md](dax/medidas.md).
